@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  An open-source homebrew app store for the Nintendo GameCube.<br/>
-  Browse, download, and manage community-created games, emulators, and utilities — directly on real hardware.
+  Stocking the best GameCube homebrew.<br/>
+  Discover and download homebrew games, emulators, and utilities — directly on real hardware.
 </p>
 
 
